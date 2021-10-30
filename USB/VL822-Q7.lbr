@@ -130,13 +130,13 @@
 <pin name="P$67" x="-93.98" y="20.32" length="middle"/>
 <pin name="RESET#" x="-93.98" y="15.24" length="middle"/>
 <pin name="USBLED1/SPISI" x="-93.98" y="10.16" length="middle"/>
-<pin name="P$70" x="-93.98" y="5.08" length="middle"/>
-<pin name="P$71" x="-93.98" y="0" length="middle"/>
-<pin name="P$72" x="-93.98" y="-5.08" length="middle"/>
+<pin name="USBLED2/SPICK" x="-93.98" y="5.08" length="middle"/>
+<pin name="USBLED3/SPISO" x="-93.98" y="0" length="middle"/>
+<pin name="USBLED4/SPICS" x="-93.98" y="-5.08" length="middle"/>
 <pin name="P$73" x="-93.98" y="-10.16" length="middle"/>
-<pin name="P$74" x="-93.98" y="-15.24" length="middle"/>
-<pin name="P$75" x="-93.98" y="-20.32" length="middle"/>
-<pin name="P$76" x="-93.98" y="-25.4" length="middle"/>
+<pin name="TESTEN" x="-93.98" y="-15.24" length="middle"/>
+<pin name="USBOC2" x="-93.98" y="-20.32" length="middle"/>
+<pin name="USBPE2" x="-93.98" y="-25.4" length="middle"/>
 <wire x1="-88.9" y1="76.2" x2="-88.9" y2="-35.56" width="0.254" layer="94"/>
 <wire x1="-88.9" y1="-35.56" x2="33.02" y2="-35.56" width="0.254" layer="94"/>
 <wire x1="33.02" y1="-35.56" x2="33.02" y2="76.2" width="0.254" layer="94"/>
